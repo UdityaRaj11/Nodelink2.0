@@ -10,7 +10,7 @@ Welcome to Nodelink, a social media app dedicated to fostering personal growth a
 * Challenges: Participate in personal growth challenges to push yourself, set and achieve goals, and celebrate your progress.
 * Resources: Discover a curated collection of resources, including books, podcasts, courses, and tools, to support your personal development journey.
 
-## Getting started
+## Getting Started
 1. Sign Up: Create your Personal Growth Social account by providing some basic information and setting up your profile.
 2. Customize: Personalize your profile, including your bio, interests, and goals, to make meaningful connections with like-minded individuals.
 3. Explore: Dive into the app and start exploring the feeds, groups, and resources available. Engage with posts, connect with others, and contribute    to discussions.
